@@ -91,7 +91,6 @@
     <Compile Include="Products.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Sale_Form.Designer.cs" />
     <Compile Include="Store.cs" />
     <Compile Include="Store_Form.cs">
       <SubType>Form</SubType>
