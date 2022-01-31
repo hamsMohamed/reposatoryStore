@@ -112,7 +112,7 @@ namespace WindowsFormsApp1
 
         private void Add_Supplier_Load(object sender, EventArgs e)
         {
-            gViewAddSupplier.DataSource = system.suppliers;
+            //gViewAddSupplier.DataSource = system.suppliers;
 
         }
     }

@@ -108,7 +108,7 @@ namespace WindowsFormsApp1
 
         private void Add_Distributer_Load(object sender, EventArgs e)
         {
-            gViewAddDistribuers.DataSource = system.distributers;
+            //gViewAddDistribuers.DataSource = system.distributers;
 
         }
     }

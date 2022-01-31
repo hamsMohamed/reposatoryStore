@@ -103,7 +103,7 @@ namespace WindowsFormsApp1
 
         private void Add_Category_Load(object sender, EventArgs e)
         {
-            gviewCategory.DataSource = system.category;
+            //gviewCategory.DataSource = system.category;
 
         }
     }

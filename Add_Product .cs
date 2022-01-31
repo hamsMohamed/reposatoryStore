@@ -31,7 +31,7 @@ namespace WindowsFormsApp1
         {
 
                 
-            gviewShowProduct.DataSource = system.products;
+            //gviewShowProduct.DataSource = system.products;
 
         }
 
