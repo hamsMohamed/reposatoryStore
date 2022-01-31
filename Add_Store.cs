@@ -24,9 +24,9 @@ namespace WindowsFormsApp1
 
             storeNames.Add(txtLocation.Text);
             system.store.Add(new Store());
-            system.store[system.counter].storeName=
+            system.store[0].storeName = txtLocation.Text;
             txtLocation.Text = "";
-            system.counter++;
+            //system.counter++;
             
         }
 

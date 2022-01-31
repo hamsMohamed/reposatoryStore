@@ -30,7 +30,8 @@ namespace WindowsFormsApp1
         private void Add_Product_Load(object sender, EventArgs e)
         {
 
-                gviewShowProduct.DataSource = system.products;
+                
+            gviewShowProduct.DataSource = system.products;
 
         }
 

@@ -12,7 +12,7 @@ namespace WindowsFormsApp1
         public string ProductDescription { get; set; }
         public double ProductPrice { get; set; }
         public string ProductCategory { get; set; }
-        public string ProductSupplier { get; set; }
+        //public string ProductSupplier { get; set; }
         public int ID { get; set; }
 
         //Category Category = new Category();
